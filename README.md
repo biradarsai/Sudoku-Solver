@@ -1,2 +1,4 @@
 # Sudoku-Solver
-Sudoku Solver using Backtracking Algorithm &amp; HTML, CSS and JavaScript
+Sudoku Solver by visualizing through the Backtracking Algorithm which is made using HTML & JavaScript.
+
+https://biradarsai.github.io/Sudoku-Solver/
